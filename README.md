@@ -145,5 +145,3 @@ from the math library
 All functions  
   
 > :exclamation: Any unspecified functions are de facto banned.  
-
-[RPG]: https://en.wikipedia.org/wiki/Role-playing_video_game
