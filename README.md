@@ -114,8 +114,8 @@ we want you to think about it as a real game. As such, try to have a consistency
 - The program could let the user customize its character.  
 - The program could have bonus / malus which gives / removes points or advantages to the player.  
 
-> :exclamation: The size of your repository (including the assets) must be as small as possible. Think about the format and the encoding of your resource files (sounds, musics, images, etc.).
-> An average maximal size might be 15MB, all included. Any repository exceeding this limit might not evaluated at all.
+> :exclamation: The size of your repository (including the assets) must be as small as possible. Think about the format and the encoding of your resource files (sounds, musics, images, etc.).  
+> An average maximal size might be 15MB, all included. Any repository exceeding this limit might not evaluated at all.  
 
 ## Gameplay
 
